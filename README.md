@@ -1,2 +1,0 @@
-# acoes
-um dicionário
